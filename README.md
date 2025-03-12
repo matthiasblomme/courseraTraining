@@ -1,4 +1,4 @@
 # courseraTraining
 
-#First addition
+# First addition
 It's a markdown file in this repository
